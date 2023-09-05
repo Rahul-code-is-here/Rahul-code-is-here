@@ -1,3 +1,4 @@
+![logo](https://github.com/Rahul-code-is-here/Rahul-code-is-here/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Rahul Chauhan</h1>
 <h3 align="center">A passionate DSA learner from India</h3>
 
