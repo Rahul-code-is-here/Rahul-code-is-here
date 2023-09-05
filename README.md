@@ -1,4 +1,3 @@
-![logo](https://github.com/Rahul-code-is-here/Rahul-code-is-here/blob/main/github%20banner.png )
 <h1 align="center">Hi 👋, I'm Rahul Chauhan</h1>
 <h3 align="center">A passionate DSA learner from India</h3>
 
@@ -34,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-code-is-here&show_icons=true&locale=en" alt="rahul-code-is-here" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-code-is-here&" alt="rahul-code-is-here" /></p>
+
