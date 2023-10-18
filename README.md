@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **rc9593912@gmail.com**
 
-- ⚡ Fun fact **I have good leadership ability to lead cricket team and manage pressure 😎**
+- ⚡ Fun fact: **I have good leadership ability to lead cricket team and manage pressure 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
