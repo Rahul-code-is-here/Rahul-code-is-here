@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA,WEB DEVLOPMENT,DATA SCIENCE**
 
-- 👨‍💻 All of my projects very soon available at [https://www.linkedin.com/in/rahul-chauhan-508968252](https://www.linkedin.com/in/rahul-chauhan-508968252)
+- 👨‍💻 All of my projects very soon available at https://www.linkedin.com/in/rahul-chauhan-508968252/ 
 
 - 💬 Ask me about **rc9593912@gmail.com**
 
