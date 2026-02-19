@@ -12,8 +12,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/-rc9593912-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rc9593912@gmail.com)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/-rahultrambak89-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahul_LeetMaster/)
-
+[![LeetCode](https://img.shields.io/badge/-Rahul_LeetMaster-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahul_LeetMaster/)
 </div>
 
 ---
@@ -37,19 +36,30 @@ impl RahulChauhan {
 
 ---
 
-<!-- LANGUAGE PROFICIENCY - Based on actual work experience -->
-### Language Proficiency
+<!-- LANGUAGE STATS - Real data from GitHub repos -->
+### Languages I Code In
 
-```text
-Rust          ████████████████████░░░░░   80 %   Daily driver. Axum, SeaORM, Tokio, async/await.
-SQL           ████████████████░░░░░░░░░   64 %   PostgreSQL, stored procs, query optimization.
-C#/.NET       ████████████░░░░░░░░░░░░░   48 %   .NET Core MVC, Entity Framework, Web API.
-JavaScript    ████████░░░░░░░░░░░░░░░░░   32 %   Node.js (MERN), migrating away from it.
-Java          ██████░░░░░░░░░░░░░░░░░░░   24 %   DSA, academic projects.
-HTML/CSS      █████░░░░░░░░░░░░░░░░░░░░   20 %   Bootstrap, responsive UI.
-Python        ████░░░░░░░░░░░░░░░░░░░░░   16 %   Scripting & automation.
-Bash          ███░░░░░░░░░░░░░░░░░░░░░░   12 %   Deployment scripts, CI/CD.
-```
+<div align="center">
+
+<!-- Donut chart - real repo language breakdown -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-code-is-here&layout=donut&hide_border=true&bg_color=0d1117&title_color=F74C00&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages - Donut" />
+&nbsp;&nbsp;&nbsp;
+<!-- Compact bar chart - real repo language breakdown -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-code-is-here&layout=compact&hide_border=true&bg_color=0d1117&title_color=F74C00&text_color=c9d1d9&langs_count=10&count_private=true" alt="Top Languages - Compact" />
+
+<br/><br/>
+
+<!-- Profile Summary Cards - language by repo & by commit -->
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahul-code-is-here&theme=github_dark" alt="Repos Per Language" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahul-code-is-here&theme=github_dark" alt="Most Commit Language" />
+
+<br/><br/>
+
+<!-- Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahul-code-is-here&theme=github_dark" alt="Profile Details" />
+
+</div>
 
 ---
 
@@ -127,7 +137,7 @@ fn main() -> Result<(), AppError> {
 ### Error Handling Discipline
 
 ```rust
-// My production error pattern :
+// My production error pattern:
 #[derive(Debug, thiserror::Error)]
 pub enum ApiError {
     #[error("Database error: {0}")]
@@ -148,7 +158,7 @@ pub enum ApiError {
 
 ---
 
-### What I Build
+### What I Build at TatvaSoft
 
 <table>
 <tr>
@@ -232,9 +242,7 @@ pub enum ApiError {
 
 ### GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-code-is-here&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F74C00&icon_color=F74C00&text_color=c9d1d9&ring_color=F74C00&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-code-is-here&layout=compact&hide_border=true&bg_color=0d1117&title_color=F74C00&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul-code-is-here&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F74C00&icon_color=F74C00&text_color=c9d1d9&ring_color=F74C00&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
 <br/><br/>
 
@@ -259,20 +267,15 @@ pub enum ApiError {
 
 ---
 
-
 <div align="center">
 
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-chauhan-508968252/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rc9593912@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RahulCh79904101)
 
 <br/>
-
-## 🧮 LeetCode Profile
-
-[![LeetCode](https://leetcard.jacoblin.cool/Rahul_LeetMaster?theme=dark)](https://leetcode.com/u/Rahul_LeetMaster/)
-
 
 ```rust
 // Life is too short for garbage-collected languages.
