@@ -273,8 +273,6 @@ pub enum ApiError {
 
 [![LeetCode](https://leetcard.jacoblin.cool/Rahul_LeetMaster?theme=dark)](https://leetcode.com/u/Rahul_LeetMaster/)
 
-> 📈 I use LeetCode to sharpen problem-solving patterns and algorithmic thinking alongside my backend engineering work.
-
 
 ```rust
 // Life is too short for garbage-collected languages.
