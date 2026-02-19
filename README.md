@@ -148,7 +148,7 @@ pub enum ApiError {
 
 ---
 
-### What I Build at TatvaSoft
+### What I Build
 
 <table>
 <tr>
